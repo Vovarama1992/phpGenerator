@@ -1,0 +1,11 @@
+{
+    "name": "volodzya13/sitemap-generator",
+    "description": "A library to generate sitemaps in various formats",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SitemapGenerator\\": "src/"
+        }
+    },
+    "require": {}
+}
