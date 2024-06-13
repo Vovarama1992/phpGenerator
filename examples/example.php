@@ -21,7 +21,7 @@ $pages = [
 ];
 
 $fileType = 'json'; 
-$filePath = __DIR__ . '/sitemap.xml';
+$filePath = __DIR__ . '/sitemap.json';
 
 try {
     $generator = new SitemapGenerator($fileType);
